@@ -1,5 +1,9 @@
 # SQL-Bing-Dorker-Scanner
 SQL Bing Dorker Scanner CLi Version
+
+## Screenshots
+![Screenshot-SQL-Bing-Dorker-Scanner](https://image.prntscr.com/image/_Z29OizqQperLWn_VNrapg.jpg)
+
 ## Installation
 ```
 git clone https://github.com/Hiroyuki48/SQL-Bing-Dorker-Scanner.git
